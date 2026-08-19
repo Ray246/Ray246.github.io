@@ -24,7 +24,6 @@ Haptic Guide is an STM32-based assistive navigation prototype designed to help v
 
 <img width="378" height="463" alt="Screenshot 2026-08-19 at 12 04 26 PM (2)" src="https://github.com/user-attachments/assets/b9aeac0a-02eb-4306-a7be-1e4fdbd1052e" />
 
-https://youtu.be/9BCriwcWbG8
 
 
 ### Hack Storm.AI 2.0
