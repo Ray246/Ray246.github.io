@@ -10,7 +10,7 @@ I'm interested in building hardware/software projects that connect low-level pro
 ### Tactiley — UCLA Hardware Hackathon
 Short description of what it does and what you built.
 
-<img width="845" height="670" alt="IMG_3385" src="https://github.com/user-attachments/assets/45e5195c-60ec-401e-9dfa-31132f898d2d" />
+<img width="445" height="270" alt="IMG_3385" src="https://github.com/user-attachments/assets/45e5195c-60ec-401e-9dfa-31132f898d2d" />
 
 ### Hack Davis
 Short description of what it does and what you built.
