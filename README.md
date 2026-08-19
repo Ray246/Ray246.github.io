@@ -15,5 +15,8 @@ Short description of what it does and what you built.
 ### Hack Davis
 Short description of what it does and what you built.
 
+### Haptic Guide
+Short description of what it does and what you built.
+
 ### Hack Storm.AI 2.0
 Short description of what it does and what you built.
