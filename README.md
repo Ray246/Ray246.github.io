@@ -30,5 +30,5 @@ Haptic Guide is an STM32-based assistive navigation prototype designed to help v
 A remotely operated robotic arm system designed to interact with physical infrastructure from a safe distance. Using a Piper robotic arm, our team developed a prototype that allowed an operator to control physical actions through a remote interface, exploring how robotics could reduce the need for people to enter potentially hazardous environments.
 
 
-<img width="280" height="530" alt="IMG_3420" src="https://github.com/user-attachments/assets/7e5ecf07-f9a6-4565-bab9-7d8661447790" />
+<img width="280" height="460" alt="IMG_3420" src="https://github.com/user-attachments/assets/7e5ecf07-f9a6-4565-bab9-7d8661447790" />
 
