@@ -1,34 +1,78 @@
+# Raymond Cortez
 
-# Ray246.github.io
+Computer Engineering student building hardware/software projects that connect low-level programming with real-world devices — embedded systems, firmware, and FPGA/ASIC design.
 
-My Personal Portfolio Website
+📧 rayrcortez3@gmail.com · 💼 https://www.linkedin.com/in/raymond-cortez-230534238/ · 🔗 GitHub: Ray246 · 📄 [Resume link]
 
-I'm interested in building hardware/software projects that connect low-level programming with real-world devices.
+---
 
 ## Projects
 
-### Tactiley — UCLA Hardware Hackathon
-Tactiley is an interactive braille learning device designed to make learning braille more engaging and accessible for children. Built during the UCLA Hardware Hackathon, our team developed a physical prototype that combined tactile interaction with embedded hardware to help users practice and receive feedback while learning braille characters.
+### Tactiley — Interactive Braille Learning Device
+*UCLA Hardware Hackathon*
+
+Tactiley is an interactive braille learning device that makes learning braille more engaging and accessible for children, combining tactile interaction with embedded hardware for real-time practice and feedback.
+
+**My role:** I was responsible for [e.g., the embedded firmware / sensor integration / tactile feedback circuit — fill in your actual part].
+
+**Result:** [e.g., "Built a working prototype in 24 hours that correctly registered braille input with X% accuracy" — or however it actually performed/was received, awards, demo feedback, etc.]
+
 
 <img width="445" height="270" alt="IMG_3385" src="https://github.com/user-attachments/assets/45e5195c-60ec-401e-9dfa-31132f898d2d" />
 
-### Hack Davis
-A community event discovery platform that helps people find nearby events, clubs, workshops, and social activities through personalized mobile recommendations and location-aware public IoT displays.
+---
 
-I explored a physical extension of EventPal using a Raspberry Pi-based IoT display designed for high-traffic community spaces such as coffee shops, gyms, libraries, and student centers. The idea was to create a small, affordable display that could continuously surface nearby events and activities, similar to an airport information board but focused on local community discovery.
+### EventPal IoT Display — Hack Davis
+A community event discovery platform helping people find nearby events, clubs, and activities through personalized mobile recommendations and location-aware public IoT displays.
 
-The goal was to reach people outside of the mobile app itself and make event discovery passive and visible in places where people naturally gather. A future version could automatically retrieve nearby EventPal listings based on the display's location and rotate through upcoming events, QR codes, and community announcements.
+I designed a physical extension of EventPal: a Raspberry Pi-based IoT display for high-traffic community spaces (coffee shops, gyms, libraries) that continuously surfaces nearby events — like an airport info board, but for local community discovery.
 
-### Haptic Guide
-Haptic Guide is an STM32-based assistive navigation prototype designed to help visually impaired users detect nearby obstacles and changes in terrain. The system uses ultrasonic distance sensing and real-time embedded logic to identify potential hazards and provide immediate physical and audible feedback to the user.
+**My role:** I was responsible for [e.g., the Raspberry Pi display prototype / UI design / hardware setup].
 
+**Result:** [What you actually got working — did the display cycle through events? Did you demo it live? What was the judging feedback?]
+
+<!-- add an image here — Pi setup photo, UI mockup, or screenshot -->
+
+**Future work:** Auto-retrieving nearby listings by display location, rotating through events, QR codes, and community announcements.
+
+---
+
+### Haptic Guide — STM32 Assistive Navigation Device
+*CpE 187, Embedded Systems*
+
+Haptic Guide is an STM32-based assistive navigation prototype that helps visually impaired users detect nearby obstacles and terrain changes using ultrasonic distance sensing and real-time embedded logic, providing physical and audible feedback.
+
+**My role:** I designed and implemented [e.g., the ultrasonic sensing pipeline / haptic feedback control logic / STM32 firmware — fill in your part], and delivered the final report and presentation.
+
+**Result:** [e.g., "Detected obstacles within X meters with Y ms response time" — whatever your actual test results were.]
+
+<!-- keep your existing breadboard image, or swap for a cleaner shot if you have one -->
+<!-- consider adding a simple block diagram: Ultrasonic Sensor → STM32 → Haptic/Audio Feedback -->
 <img width="378" height="463" alt="Screenshot 2026-08-19 at 12 04 26 PM (2)" src="https://github.com/user-attachments/assets/b9aeac0a-02eb-4306-a7be-1e4fdbd1052e" />
 
+**GitHub:** [link to your public Haptic Guide repo]
 
+---
 
-### Hack Storm.AI 2.0
-A remotely operated robotic arm system designed to interact with physical infrastructure from a safe distance. Using a Piper robotic arm, our team developed a prototype that allowed an operator to control physical actions through a remote interface, exploring how robotics could reduce the need for people to enter potentially hazardous environments.
+### Remote-Operated Robotic Arm — Hack Storm.AI 2.0
+A remotely operated robotic arm system for interacting with physical infrastructure from a safe distance, using a Piper robotic arm to reduce the need for people entering hazardous environments.
 
+**My role:** I was responsible for [e.g., the CAN bus communication / control interface / Rust SDK integration — fill in your part].
 
+**Result:** [What you got working, demo outcome, any placement/award.]
+
+<!-- keep your existing robotic arm photo here -->
 <img width="280" height="460" alt="IMG_3420" src="https://github.com/user-attachments/assets/7e5ecf07-f9a6-4565-bab9-7d8661447790" />
+
+---
+
+## Skills
+
+**Languages:** C, C++, Python, Verilog/VHDL [adjust to your actual list]
+**Hardware:** STM32, Raspberry Pi, [FPGA boards, sensors, etc.]
+**Tools:** Git, [Cadence, LTspice, etc.]
+
+---
+
+*This page was generated by [GitHub Pages](https://pages.github.com).*
 
