@@ -20,6 +20,8 @@ Tactiley is an interactive braille learning device that makes learning braille m
 
 <img width="445" height="270" alt="IMG_3385" src="https://github.com/user-attachments/assets/45e5195c-60ec-401e-9dfa-31132f898d2d" />
 
+https://www.youtube.com/watch?v=gComfjArhJc&t=19s 
+
 ---
 
 ### EventPal IoT Display — Hack Davis
@@ -33,12 +35,22 @@ I designed a physical extension of EventPal: a Raspberry Pi-based IoT display fo
 
 <!-- add an image here — Pi setup photo, UI mockup, or screenshot -->
 
+![IMG_8697](https://github.com/user-attachments/assets/2b6ae06c-5dff-44fb-a7c4-f527e4b6cc97)
+![IMG_8714](https://github.com/user-attachments/assets/4d9b0a72-2dee-4aad-b764-fb69f49ebd61)
+![IMG_8712](https://github.com/user-attachments/assets/f8f4c59e-1d73-48a9-ab15-9b15ae3e4e49)
+
+
+
+
+
+https://www.youtube.com/watch?v=CXkwAHLL-sU
+
 **Future work:** Auto-retrieving nearby listings by display location, rotating through events, QR codes, and community announcements.
 
 ---
 
 ### Haptic Guide — STM32 Assistive Navigation Device
-*CpE 187, Embedded Systems*
+
 
 Haptic Guide is an STM32-based assistive navigation prototype that helps visually impaired users detect nearby obstacles and terrain changes using ultrasonic distance sensing and real-time embedded logic, providing physical and audible feedback.
 
