@@ -29,9 +29,9 @@ A community event discovery platform helping people find nearby events, clubs, a
 
 I designed a physical extension of EventPal: a Raspberry Pi-based IoT display for high-traffic community spaces (coffee shops, gyms, libraries) that continuously surfaces nearby events — like an airport info board, but for local community discovery.
 
-**My role:** I was responsible for [e.g., the Raspberry Pi display prototype / UI design / hardware setup].
+**My role:** I was responsible for programming the Raspberry Pi to retrieve event data from the EventPal web platform and process information such as event location and distance. Integrated the software with an LCD screen to display nearby generated events as a standalone IoT event board.
 
-**Result:** [What you actually got working — did the display cycle through events? Did you demo it live? What was the judging feedback?]
+**Result:** Completed a functional IoT event display within the 24-hour hackathon, allowing users to browse multiple events directly on the LCD. Despite network restrictions preventing live data retrieval, I adapted the prototype using static test data and delivered an interactive demo that was well received by the judges.
 
 <!-- add an image here — Pi setup photo, UI mockup, or screenshot -->
 
@@ -54,9 +54,9 @@ https://www.youtube.com/watch?v=CXkwAHLL-sU
 
 Haptic Guide is an STM32-based assistive navigation prototype that helps visually impaired users detect nearby obstacles and terrain changes using ultrasonic distance sensing and real-time embedded logic, providing physical and audible feedback.
 
-**My role:** I designed and implemented [e.g., the ultrasonic sensing pipeline / haptic feedback control logic / STM32 firmware — fill in your part], and delivered the final report and presentation.
+**My role:**  Designed and programmed an STM32-based assistive navigation prototype using ultrasonic sensing to detect obstacles and trigger visual and audible feedback through an LED and buzzer. Selected and integrated the hardware components, developed the embedded firmware, and debugged the complete sensor-to-feedback system.
 
-**Result:** [e.g., "Detected obstacles within X meters with Y ms response time" — whatever your actual test results were.]
+**Result:** Built a functional embedded prototype that combined sensor data to detect obstacles and recognize large Y-axis changes indicative of sudden drops such as curbs. Used UART, GPIO, and EXTI for sensor interfacing, event-driven input handling, output control, and real-time system debugging.
 
 <!-- keep your existing breadboard image, or swap for a cleaner shot if you have one -->
 <!-- consider adding a simple block diagram: Ultrasonic Sensor → STM32 → Haptic/Audio Feedback -->
