@@ -62,7 +62,7 @@ Haptic Guide is an STM32-based assistive navigation prototype that helps visuall
 <!-- consider adding a simple block diagram: Ultrasonic Sensor → STM32 → Haptic/Audio Feedback -->
 <img width="378" height="463" alt="Screenshot 2026-08-19 at 12 04 26 PM (2)" src="https://github.com/user-attachments/assets/b9aeac0a-02eb-4306-a7be-1e4fdbd1052e" />
 
-**GitHub:** [link to your public Haptic Guide repo]
+**GitHub:** https://github.com/Ray246/Haptic-Guide
 
 ---
 
@@ -80,9 +80,10 @@ A remotely operated robotic arm system for interacting with physical infrastruct
 
 ## Skills
 
-**Languages:** C, C++, Python, Verilog/VHDL [adjust to your actual list]
-**Hardware:** STM32, Raspberry Pi, [FPGA boards, sensors, etc.]
-**Tools:** Git, [Cadence, LTspice, etc.]
+**Languages:** C, C++, Python, Java, Verilog, SQL, HTML/CSS, Assembly(x86), MATLAB
+**Hardware:** STM32, Raspberry Pi, Arduino, Tuya, Servos
+**Tools:** Git, VS Code, Intel Quartus, QuestaSim, KiCad, AutoCAD Electrical, Visio, Microsoft Excel, Microsoft 365, Bitbucket, Cadence, LTspice
+**Communication Protocols** UART, I²C, SPI
 
 ---
 
