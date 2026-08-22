@@ -69,9 +69,9 @@ Haptic Guide is an STM32-based assistive navigation prototype that helps visuall
 ### Remote-Operated Robotic Arm — Hack Storm.AI 2.0
 A remotely operated robotic arm system for interacting with physical infrastructure from a safe distance, using a Piper robotic arm to reduce the need for people entering hazardous environments.
 
-**My role:** I was responsible for [e.g., the CAN bus communication / control interface / Rust SDK integration — fill in your part].
+**My role:** I was responsible for interfacing the Piper X robotic arm with a Mac and troubleshot CAN bus compatibility issues that initially prevented communication with the arm. I also built a physical LED status system with red, yellow, and green indicators and a reset button that the robotic arm could interact with as part of the prototype.
 
-**Result:** [What you got working, demo outcome, any placement/award.]
+**Result:** Successfully configured the robotic arm, achieved basic motion, and helped deliver a working prototype within the hackathon timeframe alongside teammates I had just met. Our project placed in the Top 5 of the robotics track, demonstrating a functional robotic interaction system under significant time and integration constraints.
 
 <!-- keep your existing robotic arm photo here -->
 <img width="280" height="460" alt="IMG_3420" src="https://github.com/user-attachments/assets/7e5ecf07-f9a6-4565-bab9-7d8661447790" />
