@@ -37,7 +37,7 @@ I designed a physical extension of EventPal: a Raspberry Pi-based IoT display fo
 
 
 <img width="300" height="400" alt="IMG_8697 2" src="https://github.com/user-attachments/assets/40f94f53-54ac-4e43-80fc-da51d451f609" />
-<img width="300" height="500" alt="JPEG image-4E1B-B83A-E3-0" src="https://github.com/user-attachments/assets/4bc624d8-9955-405d-ac95-d24baf934258" />
+<img width="300" height="400" alt="JPEG image-4E1B-B83A-E3-0" src="https://github.com/user-attachments/assets/4bc624d8-9955-405d-ac95-d24baf934258" />
 <img width="400" height="600" alt="IMG_8712 2" src="https://github.com/user-attachments/assets/920c9005-4fb2-4112-bb10-e8e3a5d82f8a" />
 
 
