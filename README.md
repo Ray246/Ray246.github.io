@@ -13,9 +13,9 @@ Computer Engineering student building hardware/software projects that connect lo
 
 Tactiley is an interactive braille learning device that makes learning braille more engaging and accessible for children, combining tactile interaction with embedded hardware for real-time practice and feedback.
 
-**My role:** I was responsible for [e.g., the embedded firmware / sensor integration / tactile feedback circuit — fill in your actual part].
+**My role:** Developed firmware for Tactiley on a Microchip Curiosity board and quickly adapted to an unfamiliar embedded platform. Debugged the interaction between the code and mechanical components to identify hardware-versus-software issues during integration.
 
-**Result:** [e.g., "Built a working prototype in 24 hours that correctly registered braille input with X% accuracy" — or however it actually performed/was received, awards, demo feedback, etc.]
+**Result:** Worked with a new multidisciplinary team to take Tactiley from concept to a functional prototype within the hackathon timeframe. The final system successfully actuated the Braille mechanism to form selected characters, allowing users to physically feel and identify each letter’s Braille pattern.
 
 
 <img width="445" height="270" alt="IMG_3385" src="https://github.com/user-attachments/assets/45e5195c-60ec-401e-9dfa-31132f898d2d" />
