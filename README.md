@@ -81,8 +81,11 @@ A remotely operated robotic arm system for interacting with physical infrastruct
 ## Skills
 
 **Languages:** C, C++, Python, Java, Verilog, SQL, HTML/CSS, Assembly(x86), MATLAB
+
 **Hardware:** STM32, Raspberry Pi, Arduino, Tuya, Servos
+
 **Tools:** Git, VS Code, Intel Quartus, QuestaSim, KiCad, AutoCAD Electrical, Visio, Microsoft Excel, Microsoft 365, Bitbucket, Cadence, LTspice
+
 **Communication Protocols** UART, I²C, SPI
 
 ---
