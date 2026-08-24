@@ -46,7 +46,7 @@ I designed a physical extension of EventPal: a Raspberry Pi-based IoT display fo
 
 https://www.youtube.com/watch?v=CXkwAHLL-sU
 
-**Future work:** Auto-retrieving nearby listings by display location, rotating through events, QR codes, and community announcements.
+
 
 ---
 
