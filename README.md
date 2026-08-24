@@ -2,7 +2,8 @@
 
 Computer Engineering student building hardware/software projects that connect low-level programming with real-world devices — embedded systems, firmware, and FPGA/ASIC design.
 
-📧 rayrcortez3@gmail.com · 💼 https://www.linkedin.com/in/raymond-cortez-230534238/ · 🔗 GitHub: Ray246 · 📄 [Resume link]
+📧 rayrcortez3@gmail.com · 💼 https://www.linkedin.com/in/raymond-cortez-230534238/ · 🔗 GitHub: Ray246 · 📄 [[Raymond_Cortez_Resume.pdf](https://github.com/user-attachments/files/31394413/Raymond_Cortez_Resume.pdf)
+]
 
 ---
 
