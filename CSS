@@ -1,1 +1,14 @@
 
+---
+---
+
+$header-bg-color: #E8D9C5;
+$header-bg-color-secondary: #F5EDE1;
+$header-heading-color: #3D2B1F;
+$body-text-color: #3D2B1F;
+$body-link-color: #8B5E3C;
+$section-headings-color: #6B4423;
+$border-color: #D9C7AE;
+$hr-border-color: #D9C7AE;
+
+@import "{{ site.theme }}";
